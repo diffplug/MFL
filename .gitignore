@@ -4,3 +4,6 @@
 settings.xml
 target/
 *.versionsBackup
+.gradle/
+build/
+.DS_Store
